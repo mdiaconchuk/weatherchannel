@@ -70,7 +70,7 @@ function Card({ loadingData, showData, weather, forecast }) {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card w-auto border-0 bg-transparent ">
+                                <div class="card w-auto border-0 bg-transparent">
                                     <i class="fa-solid fa-gauge pt-3 fs-1"></i>
                                     <div class="card-body">
                                         <p class="card-text fs-4">Presión atm.</p>
